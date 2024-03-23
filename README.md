@@ -1,4 +1,4 @@
-# Robot_telegram_send_message
+# Telegram bot sending message
 robot telegram for read numbers from excel and send message to them
 
 1 - pip install -r requirements.txt
